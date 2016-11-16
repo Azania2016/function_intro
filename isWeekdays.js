@@ -5,4 +5,4 @@ var isWeekdays = function(day){
 return true;
 };
 console.log(isWeekdays('Monday'));
-assert.equal(isWeekdays('Monday'),true);
+assert.equal(sameWeekday)'2016-12-24','2016-12-31',true));
